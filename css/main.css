@@ -973,7 +973,7 @@ body {
 .navigation__background {
   height: 6rem;
   width: 6rem;
-  border-radius: 20%;
+  border-radius: 50%;
   position: fixed;
   top: 6.5rem;
   right: 6.5rem;
@@ -988,7 +988,7 @@ body {
   position: fixed;
   background-color: khaki;
   top: 0;
-  left: 0;
+  right: 0;
   z-index: 1500;
   width: 0%;
   opacity: 0;
